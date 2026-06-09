@@ -1,2 +1,2 @@
-# doonething.github.io
+# Privacy Policy
 do one thing
