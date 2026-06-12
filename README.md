@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** [12/06/2026]
+**Last updated:** 12/06/2026
 
 This Privacy Policy explains how **Do One Thing** ("the App") handles your personal data.
 
